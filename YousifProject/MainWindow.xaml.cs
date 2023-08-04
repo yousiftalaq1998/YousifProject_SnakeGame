@@ -37,7 +37,7 @@ namespace YousifProject
             {Direction.Down,180 },
             {Direction.Left,270 }
         };
-
+        //Size Grid
         private readonly int rows =15,cols =15;
         private readonly Image[,] gridImages;
 
